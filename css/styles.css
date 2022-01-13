@@ -1,0 +1,18 @@
+:root {
+	--background-1: #fff;
+	--background-2: #ffe964;
+	--background-3: #ff523d;
+	--background-4: #223c88;
+	--main-text: #000;
+}
+
+html {
+	box-sizing: border-box;
+	font-family: "Roboto", sans-serif;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
