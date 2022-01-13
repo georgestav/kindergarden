@@ -31,20 +31,42 @@ html {
 	margin: 0 1em;
 }
 
-.title
-
 .title__bg__picture {
+	height: 500px;
+	background-image: url("../img/banner.jpg");
+}
 
+title__main {
+	color: #fff;
+	line-height: 1.5em;
 }
 
 .title__letters--B {
+	font-size: 1.5em;
 	color: #ffe964;
 }
 
+.title__letters--B span {
+	color: #fff;
+	font-size: 1.5em;
+}
+
 .title__letters--I {
+	font-size: 1.5em;
 	color:#ff523d
 }
 
+.title__letters--I span {
+	font-size: 1.5em;
+	color: #fff;
+}
+
 .title__letters--K {
+font-size: 1.5em;
 	color: #223c88;
+}
+
+.title__letters--K span {
+	font-size: 1.5em;
+	color: #fff;
 }
