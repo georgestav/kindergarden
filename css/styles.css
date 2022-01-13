@@ -16,3 +16,35 @@ html {
 *:after {
 	box-sizing: inherit;
 }
+
+
+.navigation {
+	margin: auto;
+	
+	display: flex;
+	position: fixed;
+	flex-direction: row;
+}
+
+
+.navigation__link {
+	margin: 0 1em;
+}
+
+.title
+
+.title__bg__picture {
+
+}
+
+.title__letters--B {
+	color: #ffe964;
+}
+
+.title__letters--I {
+	color:#ff523d
+}
+
+.title__letters--K {
+	color: #223c88;
+}
